@@ -4,7 +4,7 @@ This repository is to get familiar with gradient descent for known and unknown f
 
 Here are some examples:
 
-![](plts/GD_quadratic.png)
-![](plts/2D_GD.png)
-![](plts/3D_GD_without_momentum.png)
-![](plts/3D_GD_with_momentum.png)
+![](plots/GD_quadratic.png)
+![](plots/2D_GD.png)
+![](plots/3D_GD_without_momentum.png)
+![](plpts/3D_GD_with_momentum.png)
