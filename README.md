@@ -9,7 +9,7 @@ Here are some examples:
 * Differential approach
 
 ![](plots/GD_quadratic.png)
-![](plots/2D_GD.png)
+![](plots/2D_GD.gif)
 
 * Perturbation approach
 
